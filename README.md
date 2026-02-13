@@ -6,7 +6,6 @@ Complete repository for Microsoft Power Platform certification preparation. This
 
 - [Certifications](#-certifications)
 - [Projects](#-projects)
-- [Resources](#-resources)
 - [Recommended Learning Path](#-recommended-learning-path)
 - [Contributing](#-contributing)
 
@@ -17,7 +16,6 @@ Complete repository for Microsoft Power Platform certification preparation. This
 
 - 📖 [Study Guide](./certifications/PL-900/README.md)
 - 💻 [Projects](./projects/beginner/) - Beginner level projects
-- 📚 [Resources](./resources/study-guides/) - Study guides and practice questions
 
 **Description**: Entry-level certification ideal for starting in Power Platform. Covers fundamentals of Power Apps, Power Automate, Power Pages, and Dataverse.
 
@@ -28,7 +26,6 @@ Complete repository for Microsoft Power Platform certification preparation. This
 
 - 📖 [Study Guide](./certifications/PL-200/README.md)
 - 💻 [Projects](./projects/intermediate/) - Intermediate level projects
-- 📚 [Resources](./resources/study-guides/) - Study guides and practice questions
 
 **Description**: Functional consulting certification focused on requirements analysis, solution configuration, and implementation. Bridges business and technical requirements.
 
@@ -39,7 +36,6 @@ Complete repository for Microsoft Power Platform certification preparation. This
 
 - 📖 [Study Guide](./certifications/PL-400/README.md)
 - 💻 [Projects](./projects/advanced/) - Advanced level projects
-- 📚 [Resources](./resources/study-guides/) - Study guides and practice questions
 
 **Description**: Developer certification for custom solutions, code, APIs, and advanced integrations. Focuses on extending Power Platform with custom development.
 
@@ -50,7 +46,6 @@ Complete repository for Microsoft Power Platform certification preparation. This
 
 - 📖 [Study Guide](./certifications/PL-600/README.md)
 - 💻 [Projects](./projects/advanced/) - Advanced level projects
-- 📚 [Resources](./resources/study-guides/) - Study guides and practice questions
 
 **Description**: Expert-level architecture certification for designing enterprise-scale solutions, governance, and leading Power Platform implementations.
 
@@ -80,30 +75,6 @@ Practical projects organized by certification level to apply what you've learned
 - Plugin development
 - Complex integration solutions
 - Enterprise architecture designs
-
----
-
-## 📚 Resources
-
-Additional study materials organized by type:
-
-### Study Guides
-📁 [View Study Guides](./resources/study-guides/)
-- Additional study materials
-- Concept summaries
-- Best practices
-
-### Practice Questions
-📁 [View Practice Questions](./resources/practice-questions/)
-- Exam practice questions
-- Sample scenarios
-- Answer explanations
-
-### Cheat Sheets
-📁 [View Cheat Sheets](./resources/cheat-sheets/)
-- Quick reference guides
-- Formula references
-- Configuration checklists
 
 ---
 
@@ -144,10 +115,6 @@ PowerPlatformMastery/
 │   ├── beginner/        (PL-900 projects)
 │   ├── intermediate/    (PL-200 projects)
 │   └── advanced/       (PL-400 & PL-600 projects)
-├── resources/
-│   ├── study-guides/
-│   ├── practice-questions/
-│   └── cheat-sheets/
 └── README.md
 ```
 
