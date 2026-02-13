@@ -6,10 +6,21 @@ This folder contains real-world projects organized by certification level to hel
 
 ### [Beginner Projects](./beginner/) - PL-900 Level
 Projects for those starting with Power Platform fundamentals:
-- Simple Canvas Apps from SharePoint lists
-- Basic automated flows
-- Power BI reports from Excel data
-- Simple Power Pages sites
+
+1. **[Employee Directory Canvas App](./beginner/01-employee-directory-app/)** ⭐
+   - Create a Canvas App from SharePoint data
+   - Learn Gallery controls and navigation
+   - Implement search functionality
+
+2. **[Automated Email Notification Flow](./beginner/02-email-notification-flow/)** ⭐
+   - Build automated flows with SharePoint triggers
+   - Configure email notifications
+   - Use conditions in flows
+
+3. **[Simple Power BI Dashboard](./beginner/03-simple-power-bi-dashboard/)** ⭐
+   - Import data from Excel
+   - Create visualizations
+   - Build and share dashboards
 
 ### [Intermediate Projects](./intermediate/) - PL-200 Level
 Projects for functional consultants:
